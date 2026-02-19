@@ -1,0 +1,9 @@
+#Ambiente virtual
+venv/
+#variables de entorno
+.env
+PROYECTO_ADSO/serviceAccountKey.json
+#BD
+*.sqlite3
+#Carpetas de pyhton
+__pycache__/
